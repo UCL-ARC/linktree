@@ -1,0 +1,23 @@
+### **UCL ARC links**
+
+🌐 [Our website](https://www.ucl.ac.uk/advanced-research-computing)
+
+🤝 [Information on how to work with us on research proposals or collaborative projects](https://www.ucl.ac.uk/advanced-research-computing/collaborations-and-consultancy)
+
+📚 Look at our [case studies](https://www.ucl.ac.uk/advanced-research-computing/arc-showcase) to see how we've worked together with other researchers
+
+📰 [Sign up to our newsletter](https://r1.dotdigital-pages.com/p/6T1L-JUR/ucl-arc-subscribers?pfredir=1) to get updates on events, training, and opportunities
+
+💬 Come to our [drop-in sessions](https://www.ucl.ac.uk/advanced-research-computing/community-events/drop-sessions) for free 1:1 advice
+
+👩‍💻Join the [UCL Research Programming Hub](https://www.ucl.ac.uk/advanced-research-computing/community-events/ucl-research-programming-hub)
+
+### **Events**
+
+[Sign up to our events](https://pretix.eu/ARC/), like the [TechSocials](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series), to meet others and connect with the ARC community
+
+### **Get in touch**
+
+📨 <arc.collaborations@ucl.ac.uk> for research collaborations
+
+📨 <arc@ucl.ac.uk> for other queries
