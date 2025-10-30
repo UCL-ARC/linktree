@@ -10,13 +10,13 @@
 
 💬 Come to our [drop-in sessions](https://www.ucl.ac.uk/advanced-research-computing/community-events/drop-sessions) for free 1:1 advice
 
+🎫 [Sign up to events](https://pretix.eu/ARC/), like our [TechSocials](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series), to meet others and connect with the ARC community
+
+### **Get support from the community**
+
 👩‍💻Join the [UCL Research Programming Hub](https://www.ucl.ac.uk/advanced-research-computing/community-events/ucl-research-programming-hub)
 
 🔬Check out the [UCL's BioImage Interest Group](https://www.ucl.ac.uk/science-technology-platforms/imaging/ucl-bioimage-interest-group), which fosters discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting. 
-
-### **Events**
-
-[Sign up to our events](https://pretix.eu/ARC/), like the [TechSocials](https://www.ucl.ac.uk/advanced-research-computing/techsocial-series), to meet others and connect with the ARC community
 
 ### **Get in touch**
 
