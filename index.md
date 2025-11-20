@@ -16,7 +16,7 @@
 
 👩‍💻Join the [UCL Research Programming Hub](https://www.ucl.ac.uk/advanced-research-computing/community-events/ucl-research-programming-hub)
 
-🔬Check out the [UCL's BioImage Interest Group](https://www.ucl.ac.uk/science-technology-platforms/imaging/ucl-bioimage-interest-group), which fosters discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting. 
+🔬Check out [UCL's BioImage Interest Group](https://www.ucl.ac.uk/science-technology-platforms/imaging/ucl-bioimage-interest-group), which fosters discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting. 
 
 ### **Get in touch**
 
