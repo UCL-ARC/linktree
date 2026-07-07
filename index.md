@@ -4,7 +4,7 @@
 
 🌐 [ARC Life Sciences](https://www.ucl.ac.uk/advanced-research-computing/collaborations-consultancy/life-sciences-collaborations)
 
-🧬 [UCLhg](https://github-pages.ucl.ac.uk/UCLhg-ARC/)
+🧬 The UCL human genomics initiative [UCLhg](https://github-pages.ucl.ac.uk/UCLhg-ARC/)
 
 🤝 [Information on how to work with us on research proposals or collaborative projects](https://www.ucl.ac.uk/advanced-research-computing/collaborations-and-consultancy)
 
