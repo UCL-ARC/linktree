@@ -22,9 +22,6 @@
 
 🔬Check out [UCL's BioImage Interest Group](https://www.ucl.ac.uk/science-technology-platforms/imaging/ucl-bioimage-interest-group), which fosters discussion and collaborations around the topics of bioimaging and bioimage analysis in an informal setting. 
 
-### **Upcoming events**
-
-🔬 [UCL Science Technology Platform Imaging Symposium](https://www.eventbrite.co.uk/e/ucl-science-technology-platform-imaging-symposium-tickets-1976193885108)
 
 ### **Get in touch**
 
